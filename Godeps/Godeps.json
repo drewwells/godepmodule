@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/drewwells/godepmodule",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/wellington/go-libsass",
+			"Comment": "v0.9.0-192-gcdca9d2",
+			"Rev": "cdca9d24f84a2abec8dc8b6cfcaf14a2f08bedac"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "59b0df9b1f7abda5aab0495ee54f408daf182ce7"
+		}
+	]
+}
